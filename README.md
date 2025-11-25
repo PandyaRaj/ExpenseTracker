@@ -165,8 +165,6 @@ ExpenseTracker/
 
 - GitHub: [@PandyaRaj](https://github.com/PandyaRaj)
 - LinkedIn: [Raj Pandya](https://www.linkedin.com/in/pandya-raj-8346001b4)
-- Portfolio: [rajpandya1575.github.io](https://rajpandya1575.github.io/Rajpandya/)
-- Location: Toronto, Canada
 
 ---
 <div align="center">
