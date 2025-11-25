@@ -152,9 +152,9 @@ ExpenseTracker/
 
 <div align="center">
 
-| Home Screen | Add Expense | Expense Details |
-|-------------|-------------|-----------------|
-| ![Home](./assets/screenshots/home.png) | ![Add](./assets/screenshots/add.png) 
+| Home Screen | Manage Expense | 
+|-------------|-------------|
+| ![Home](./assets/home.png) | ![Add](./assets/add.png) 
 
 </div>
 ---
